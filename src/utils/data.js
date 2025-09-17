@@ -94,16 +94,16 @@ export const projects = [
     image: project1Img,
     tech: ["React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
     description:
-      "A full-stack AI Image Generator app where users can generate unique images using prompts powered by AI APIs. Includes authentication and gallery features.",
+      "A full-stack fantasy league platform for hip-hop enthusiasts, allowing users to create, manage, and compete in fantasy hip-hop leagues. Features authentication, user dashboards, and interactive leaderboards.",
     liveLink: "https://theflohh.com/",
   },
   {
     id: 2,
     name: "Pre Construction Estimation",
     image: project2Img,
-    tech: ["React.js", "CSS3", "Redux", "Node.js", "MongoDB" , "express.js"],
+    tech: ["React.js", "CSS3", "Redux", "Node.js", "MongoDB", "Express.js"],
     description:
-      "A modern e-commerce web application with authentication, product filters, and a fully functional shopping cart system.",
+      "A web application for pre-construction estimation, helping users calculate project costs efficiently. Includes authentication, real-time data calculations, product filters, and detailed reports.",
     liveLink: "https://preconstructionestimation.com/",
   },
   {
@@ -112,7 +112,7 @@ export const projects = [
     image: project3Img,
     tech: ["React.js", "Framer Motion", "Tailwind CSS"],
     description:
-      "A personal portfolio website with smooth animations, dark mode support, and a clean modern layout showcasing projects and skills.",
-    liveLink: "https://your-portfolio.netlify.app",
+      "A modern personal portfolio showcasing my projects, skills, and experience. Features smooth animations, responsive design, dark mode, and an interactive UI to enhance user experience.",
+    liveLink: "https://wahabdevportfolio.netlify.app",
   }
 ];
